@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-team: Leopards
-
-manager: Nora
-
-coach: Nicholas
-
-members:
-- Linda
-- William
-- David
-=======
 team: Leopards
 
 manager: Nora
@@ -20,5 +8,5 @@ members:
 - Linda
 - William
 - David
->>>>>>> 3f825ee (Edit Leopards)
 - Olivia
+- Evie
