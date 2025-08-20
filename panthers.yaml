@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: Panthers
 
 manager: Sebastian
@@ -8,4 +9,16 @@ members:
 - Violet
 - Stella
 - Anthony
+=======
+team: Panthers
+
+manager: Sebastian
+
+coach: Raymond
+
+members:
+- Violet
+- Stella
+- Anthony
+>>>>>>> bc0f617 ( Edit Panthers)
 - Freddie
